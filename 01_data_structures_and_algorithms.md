@@ -641,18 +641,18 @@ What we have learned so far:
 Knowledge Check:
 > How do we get a single set of distinct elements from two sets that contain overlapping items?
 
-
+---
 # Covered in Data Structures Part II:
 Next week we will cover more user defined data structures in python and several algorithms.
 
-#### User Defined Data Structures in Python
+### User Defined Data Structures in Python
 ##### 1. Linked List
 ##### 2. Stacks (LIFO) & Queues (FIFO)
 ##### 3. Heap
 ##### 4. Graph
 ##### 5. Trees
 
-#### Algorithms in Python
+### Algorithms in Python
 ##### 1. Characteristics of an algorithm
 ##### 2. How to write an algorithm
 ##### 3. Sorting & Searching Algorithms
