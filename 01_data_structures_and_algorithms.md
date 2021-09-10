@@ -87,6 +87,7 @@ tupleName = ("Hello", "World", 20, 21.00)
 |I|Represents unsigned integer of size 2 bytes
 |f|Represents floating point of size 4 bytes
 |d|Represents floating point of size 8 bytes   |   |
+
 The `byte` is the unit of digital information that most commonly consists of eight bits.
 
 The `bit` is the most basic unit of information in computing and digital communications. The bit represents a logical state with one of two possible values. These values are most commonly represented as either "1" or "0"
@@ -261,6 +262,7 @@ In computing, we sometimes need to work with data in a way that allows us to mai
 > - A **hashing function** is an integer of fixed length code, which represents a key to identify data.
 > - Sometimes, the hash function can create **collisions**
 > - When storing a new item into a hash table and a hash collision occurs, but the actual keys themselves are different, the hash table stores both items (as a list). However, if the key of the new item matches the key of an old item, the hash table will erase the old item and overwrite it with the new item, so every item in the table has a unique key.
+
 ![img](/assets/img/confusion.jfif)
 
 Example of Collision in a Hash Table using names and phone numbers
