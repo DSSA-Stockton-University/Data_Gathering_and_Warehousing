@@ -1,2 +1,3 @@
-# Data_Gathering_and_Warehousing
-Class Lectures and exercises
+# Data Gathering and Warehousing
+
+In-class Python Lectures and exercises
