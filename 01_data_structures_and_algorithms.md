@@ -642,7 +642,7 @@ Knowledge Check:
 > How do we get a single set of distinct elements from two sets that contain overlapping items?
 
 
-#For Next Week:
+# Covered in Data Structures Part II:
 Next week we will cover more user defined data structures in python and several algorithms.
 
 #### User Defined Data Structures in Python
