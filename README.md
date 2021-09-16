@@ -1,3 +1,5 @@
 # Data Gathering and Warehousing
 
-In-class Python Lectures and exercises
+This git repo contains:
+- DSSA Python lectures and exercises
+- DSSA DW lectures
