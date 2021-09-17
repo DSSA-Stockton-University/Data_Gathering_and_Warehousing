@@ -90,7 +90,7 @@ In an online system, the _response_ time of a service is usually more important 
 > Latency is the duration that a request is waiting to be handled.
 
 It's common to see the _average_ response time of a service reported. However, the mean is not very good metric if you want to know your "typical" response time, it does not tell you how many users actually experienced that delay.
-![img](/assets/img/response_time.png)
+![img](/assets/img/response_time.PNG)
 **Better to use percentiles.**
 * _Median_ (_50th percentile_ or _p50_). Half of user requests are served in less than the median response time, and the other half take longer than the median
 * Percentiles _95th_, _99th_ and _99.9th_ (_p95_, _p99_ and _p999_) are good to figure out how bad your outliners are.
