@@ -2,7 +2,7 @@
 **Instructor**: Carl Chatterton
 **Term**: Fall 2021
 **Module**: 1
-**Week**: 1
+**Week**: 2
 
 ---
 ## Working with Strings & Text
