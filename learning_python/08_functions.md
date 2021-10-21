@@ -5,6 +5,7 @@
 **Week**: 7
 
 ---
+# Working with Functions in Python
 ![img](/assets/img/python.jfif)
 
 ---
