@@ -2,7 +2,7 @@
 **Instructor**: Carl Chatterton
 **Term**: Fall 2021
 **Module**: 2
-**Week**: 7
+**Week**: 4
 
 ---
 # Working with Functions in Python
