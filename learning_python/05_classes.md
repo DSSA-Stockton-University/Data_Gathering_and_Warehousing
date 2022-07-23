@@ -2,7 +2,7 @@
 **Instructor**: Carl Chatterton
 **Term**: Fall 2021
 **Module**: 2
-**Week**: 8
+**Week**: 4
 
 ---
 # Working with Classes in Python
